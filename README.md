@@ -14,7 +14,7 @@ Let's make a weather app!
 4. Open the hows-da-weather assignment in vscode and write your code in the `app.js` file.
 5. Run live-server in your terminal to see your page in the browser
    - `$ cd hows-da-weather`
-   - `live-server
+   - `live-server`
 
 ## Create an account for the following
 [OpenWeather](https://openweathermap.org/)
