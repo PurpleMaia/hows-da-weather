@@ -17,5 +17,5 @@ Let's make a weather app!
    - `live-server`
 
 ## Create an account for the following
-[OpenWeather](https://openweathermap.org/)
-[Unsplash](https://unsplash.com/developers)
+1. [OpenWeather](https://openweathermap.org/)
+2. [Unsplash](https://unsplash.com/developers)
